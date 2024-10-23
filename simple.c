@@ -12,5 +12,6 @@ int main()
 printf("the array elements are");
 for(i=0;i<n;i++)
    printf("%d\n",a[i]);
+printf("Completed");
 return 0;
 }
